@@ -1,7 +1,6 @@
 ## olá mundo
 🔭 desempregado,
 🌱 atualmente estudando python para data science,
-😄 pronomes ele/dele,
 👽 tempo livre: guitarra, animes e calistenia...  
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=CaioArg23">
