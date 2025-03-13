@@ -6,7 +6,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=CaioArg23">
 <a href="https://https://github.com/CaioArg23/github-readme-stats)">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CaioArg23&show_icons=true&theme=radical"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioArg23&layout=compact"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioArg23&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
